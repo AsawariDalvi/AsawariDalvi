@@ -87,10 +87,12 @@ I enjoy solving real-world problems through technology, learning new concepts, a
 ## Connect With Me
 
 <p align="left">
-  <a href="mailto:asawaridalvi05@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-YOUR_EMAIL%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="mailto:asawaridalvi05@gmail.com">
+<img src="https://img.shields.io/badge/asawaridalvi05%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
+```
+
 ```
 
 
