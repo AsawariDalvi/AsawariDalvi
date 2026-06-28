@@ -91,8 +91,6 @@ I enjoy solving real-world problems through technology, learning new concepts, a
 <img src="https://img.shields.io/badge/asawaridalvi05%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
-```
 
-```
 
 
