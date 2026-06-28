@@ -27,42 +27,53 @@ I enjoy solving real-world problems through technology, learning new concepts, a
 
 ---
 
-## Tech Stack
 
-### Languages
+ ## Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,html,css,javascript" />
+ ### Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### Frameworks & Libraries
+ ### Frameworks & Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=androidstudio,react,nodejs,express" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
 </p>
 
-### Databases
+ ### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-### Tools & Technologies
+ ### Tools & Technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,linux" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
 </p>
+```
 
----
 
-## 📱 Android Projects
+
+## Android Projects
 
 - Food Ordering Application
 - Real-Time Chat Application
 - Hospital Management System
 
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 
@@ -73,29 +84,13 @@ I enjoy solving real-world problems through technology, learning new concepts, a
 </p>
 
 ---
+## Connect With Me
 
-## 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p align="left">
+  <a href="mailto:asawaridalvi05@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-YOUR_EMAIL%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+```
 
-
-##Connect With Me
-
-<p>
-
-
-
-<a href="https://github.com/AsawariDalvi">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="mailto:asawaridalvi05@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
 
